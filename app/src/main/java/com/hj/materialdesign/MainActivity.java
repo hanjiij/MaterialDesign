@@ -41,7 +41,6 @@ public class MainActivity
         mNavigationDrawerFragment.setUp(
                 R.id.navigation_drawer,
                 (DrawerLayout) findViewById(R.id.drawer_layout));
-        // 测试二
     }
 
     @Override
